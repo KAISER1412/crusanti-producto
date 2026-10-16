@@ -1,0 +1,506 @@
+{
+  "currency": "MXN",
+  "timeZone": "America/Mexico_City",
+  "products": [
+    {
+      "id": "grua-cr10",
+      "name": "Grúa Hidráulica Industrial CR-10",
+      "price": 185000,
+      "discountPercent": 15,
+      "offerStart": "2026-10-07T00:00:00",
+      "offerEnd": "2026-10-07T23:59:59",
+      "stock": 5,
+      "category": "Maquinaria industrial / grúas (demostración)",
+      "description": "La grúa hidráulica CR-10 está orientada a elevar y posicionar cargas en áreas industriales o de taller. Apoya maniobras de manejo de materiales de acuerdo con la configuración del espacio de trabajo.",
+      "features": {
+        "Tipo de equipo": "Grúa hidráulica para maniobras de elevación.",
+        "Uso de catálogo": "Manejo y posicionamiento de cargas en entornos industriales o de taller.",
+        "Sistema descrito": "Elevación hidráulica; configuración específica por confirmar.",
+        "Datos por confirmar": "Capacidad, altura, alcance y controles."
+      },
+      "mainImage": "img/grua-cr10-1.jpg",
+      "gallery": [
+        "img/grua-cr10-1.jpg",
+        "img/grua-cr10-2.jpg",
+        "img/grua-cr10-3.jpg",
+        "img/grua-cr10-4.jpg"
+      ],
+      "isDemo": true
+    },
+    {
+      "id": "equipo-demo-02",
+      "name": "Equipo industrial DEMO-02",
+      "price": 100000,
+      "discountPercent": 15,
+      "offerStart": "2026-10-07T00:00:00",
+      "offerEnd": "2026-10-07T23:59:59",
+      "stock": null,
+      "category": "Equipo industrial (demostración)",
+      "description": "Equipo industrial para apoyar operaciones generales en entornos productivos. La ficha no identifica una aplicación concreta ni incluye detalles técnicos adicionales.",
+      "features": {
+        "Registro": "Equipo industrial de demostración.",
+        "Aplicación": "Uso industrial específico pendiente de identificar.",
+        "Configuración": "Componentes y modo de operación por definir.",
+        "Ficha real": "Datos técnicos pendientes de confirmación."
+      },
+      "mainImage": "img/equipo-demo-02-1.jpg",
+      "gallery": [
+        "img/equipo-demo-02-1.jpg",
+        "img/equipo-demo-02-2.jpg",
+        "img/equipo-demo-02-3.jpg",
+        "img/equipo-demo-02-4.jpg"
+      ],
+      "isDemo": true
+    },
+    {
+      "id": "accesorio-demo-03",
+      "name": "Accesorio industrial DEMO-03",
+      "price": 6500,
+      "discountPercent": 15,
+      "offerStart": "2026-10-08T00:00:00",
+      "offerEnd": "2026-10-08T23:59:59",
+      "stock": null,
+      "category": "Accesorios industriales (demostración)",
+      "description": "Accesorio industrial presentado como complemento para equipos de trabajo. La ficha no detalla su función específica ni el equipo al que se integra.",
+      "features": {
+        "Registro": "Accesorio industrial de demostración.",
+        "Función general": "Complemento industrial; propósito específico por confirmar.",
+        "Compatibilidad": "Equipo o modelo de uso compatible por determinar.",
+        "Contenido": "Materiales y piezas incluidos por confirmar."
+      },
+      "mainImage": "img/accesorio-demo-03-1.jpg",
+      "gallery": [
+        "img/accesorio-demo-03-1.jpg",
+        "img/accesorio-demo-03-2.jpg",
+        "img/accesorio-demo-03-3.jpg",
+        "img/accesorio-demo-03-4.jpg"
+      ],
+      "isDemo": true
+    },
+    {
+      "id": "grua-cr20",
+      "name": "Grúa Hidráulica Industrial CR-20",
+      "price": 250000,
+      "discountPercent": 15,
+      "offerStart": "2026-10-12T00:00:00",
+      "offerEnd": "2026-10-12T23:59:59",
+      "stock": 8,
+      "category": "Grúas",
+      "description": "La grúa hidráulica CR-20 apoya maniobras de elevación y colocación de cargas en operaciones industriales. Su uso se integra al manejo de materiales según las condiciones del área de trabajo.",
+      "features": {
+        "Tipo de equipo": "Grúa hidráulica orientada al izaje industrial.",
+        "Maniobra": "Apoyo para elevar y posicionar cargas.",
+        "Contexto de uso": "Aplicaciones de taller o área industrial.",
+        "Parámetros no publicados": "Capacidad, alcance, altura y configuración por confirmar."
+      },
+      "mainImage": "img/grua-cr20-1.jpg",
+      "gallery": [
+        "img/grua-cr20-1.jpg",
+        "img/grua-cr20-2.jpg",
+        "img/grua-cr20-3.jpg",
+        "img/grua-cr20-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "montacargas-mt15",
+      "name": "Montacargas Industrial MT-15",
+      "price": 180000,
+      "discountPercent": 12,
+      "offerStart": "2026-10-13T00:00:00",
+      "offerEnd": "2026-10-13T23:59:59",
+      "stock": 5,
+      "category": "Maquinaria",
+      "description": "El montacargas MT-15 está pensado para trasladar y posicionar materiales en almacenes y áreas de operación. Sus horquillas apoyan el movimiento de cargas compatibles durante tareas de abastecimiento y organización.",
+      "features": {
+        "Función principal": "Traslado y posicionamiento de cargas.",
+        "Tipo de material": "Adecuado para cargas compatibles con la configuración de horquillas.",
+        "Entorno de catálogo": "Operaciones de almacén o manejo interno.",
+        "Parámetros por confirmar": "Capacidad, altura de elevación y dimensiones."
+      },
+      "mainImage": "img/montacargas-mt15-1.jpg",
+      "gallery": [
+        "img/montacargas-mt15-1.jpg",
+        "img/montacargas-mt15-2.jpg",
+        "img/montacargas-mt15-3.jpg",
+        "img/montacargas-mt15-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "plataforma-pe12",
+      "name": "Plataforma Elevadora PE-12",
+      "price": 145000,
+      "discountPercent": 18,
+      "offerStart": "2026-10-14T00:00:00",
+      "offerEnd": "2026-10-14T23:59:59",
+      "stock": 3,
+      "category": "Elevación",
+      "description": "La plataforma elevadora PE-12 facilita el acceso a zonas de trabajo en altura para tareas de instalación, mantenimiento o inspección. Su uso debe ajustarse a la configuración del equipo y a las condiciones del área.",
+      "features": {
+        "Acceso de trabajo": "Acceso a zonas de trabajo elevadas; uso exacto por confirmar.",
+        "Superficie": "Plataforma de apoyo; dimensiones por confirmar.",
+        "Aplicación general": "Tareas de instalación, mantenimiento o inspección en altura.",
+        "Datos de uso": "Altura de trabajo, capacidad y accionamiento por confirmar."
+      },
+      "mainImage": "img/plataforma-pe12-1.jpg",
+      "gallery": [
+        "img/plataforma-pe12-1.jpg",
+        "img/plataforma-pe12-2.jpg",
+        "img/plataforma-pe12-3.jpg",
+        "img/plataforma-pe12-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "polipasto-pe05",
+      "name": "Polipasto Eléctrico PE-05",
+      "price": 42500,
+      "discountPercent": 10,
+      "offerStart": "2026-10-15T00:00:00",
+      "offerEnd": "2026-10-15T23:59:59",
+      "stock": 12,
+      "category": "Elevación",
+      "description": "El polipasto eléctrico PE-05 permite elevar y posicionar cargas mediante accionamiento eléctrico. Puede integrarse a una estructura de izaje compatible para apoyar maniobras verticales en el área de trabajo.",
+      "features": {
+        "Accionamiento indicado": "Eléctrico según el nombre del producto.",
+        "Movimiento": "Elevación vertical de cargas con equipo de izaje compatible.",
+        "Instalación": "Soporte y configuración de montaje por confirmar.",
+        "Parámetros de izaje": "Capacidad, recorrido y alimentación por confirmar."
+      },
+      "mainImage": "img/polipasto-pe05-1.jpg",
+      "gallery": [
+        "img/polipasto-pe05-1.jpg",
+        "img/polipasto-pe05-2.jpg",
+        "img/polipasto-pe05-3.jpg",
+        "img/polipasto-pe05-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "compresor-ci30",
+      "name": "Compresor Industrial CI-30",
+      "price": 98000,
+      "discountPercent": 20,
+      "offerStart": "2026-10-16T00:00:00",
+      "offerEnd": "2026-10-16T23:59:59",
+      "stock": 5,
+      "category": "Equipos industriales",
+      "description": "El compresor industrial CI-30 suministra aire comprimido para herramientas y procesos neumáticos compatibles. Apoya tareas de operación y mantenimiento donde se requiere una fuente de aire a presión.",
+      "features": {
+        "Función": "Suministro de aire comprimido para aplicaciones compatibles.",
+        "Uso general": "Apoyo a herramientas y procesos neumáticos.",
+        "Componentes": "Depósito, conexiones y tipo de compresión por confirmar.",
+        "Rendimiento": "Presión, caudal y potencia pendientes de confirmar."
+      },
+      "mainImage": "img/compresor-ci30-1.jpg",
+      "gallery": [
+        "img/compresor-ci30-1.jpg",
+        "img/compresor-ci30-2.jpg",
+        "img/compresor-ci30-3.jpg",
+        "img/compresor-ci30-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "generador-gi25",
+      "name": "Generador Industrial GI-25",
+      "price": 125000,
+      "discountPercent": 15,
+      "offerStart": "2026-10-17T00:00:00",
+      "offerEnd": "2026-10-17T23:59:59",
+      "stock": 8,
+      "category": "Equipos industriales",
+      "description": "El generador industrial GI-25 proporciona energía eléctrica para apoyar equipos y actividades en espacios de trabajo. La carga conectada debe corresponder a las condiciones de operación del generador.",
+      "features": {
+        "Función": "Generación de energía eléctrica.",
+        "Aplicación": "Suministro para cargas compatibles según configuración.",
+        "Conexiones": "Tipo y cantidad de salidas por confirmar.",
+        "Parámetros de operación": "Potencia, combustible y autonomía pendientes de confirmar."
+      },
+      "mainImage": "img/generador-gi25-1.jpg",
+      "gallery": [
+        "img/generador-gi25-1.jpg",
+        "img/generador-gi25-2.jpg",
+        "img/generador-gi25-3.jpg",
+        "img/generador-gi25-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "transpaleta-th25",
+      "name": "Transpaleta Hidráulica TH-25",
+      "price": 18500,
+      "discountPercent": 12,
+      "offerStart": "2026-10-18T00:00:00",
+      "offerEnd": "2026-10-18T23:59:59",
+      "stock": 20,
+      "category": "Carga",
+      "description": "La transpaleta hidráulica TH-25 ayuda a levantar y desplazar pallets en almacenes y áreas de carga. Facilita el movimiento de materiales a nivel de piso durante tareas de recepción y organización.",
+      "features": {
+        "Elevación": "Accionamiento hidráulico según el nombre del producto.",
+        "Desplazamiento": "Movimiento de tarimas y cargas en recorridos de manejo interno.",
+        "Elementos de maniobra": "Timón y horquillas; configuración por confirmar.",
+        "Datos de carga": "Capacidad y dimensiones de horquillas pendientes de confirmar."
+      },
+      "mainImage": "img/transpaleta-th25-1.jpg",
+      "gallery": [
+        "img/transpaleta-th25-1.jpg",
+        "img/transpaleta-th25-2.jpg",
+        "img/transpaleta-th25-3.jpg",
+        "img/transpaleta-th25-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "eslinga-ei05",
+      "name": "Eslinga Industrial EI-05",
+      "price": 3200,
+      "discountPercent": 10,
+      "offerStart": "2026-10-19T00:00:00",
+      "offerEnd": "2026-10-19T23:59:59",
+      "stock": 12,
+      "category": "Accesorios",
+      "description": "La eslinga industrial EI-05 se utiliza para sujetar y apoyar la elevación de cargas durante maniobras de izaje. La selección debe corresponder al tipo de carga y al sistema de elevación empleado.",
+      "features": {
+        "Tipo": "Accesorio flexible para sujetar cargas en maniobras de izaje compatibles.",
+        "Conexión": "Elemento de unión entre carga y equipo de elevación.",
+        "Selección de uso": "Debe corresponder a la carga y al método de maniobra.",
+        "Datos del accesorio": "Material, longitud, construcción y capacidad por confirmar."
+      },
+      "mainImage": "img/eslinga-ei05-1.jpg",
+      "gallery": [
+        "img/eslinga-ei05-1.jpg",
+        "img/eslinga-ei05-2.jpg",
+        "img/eslinga-ei05-3.jpg",
+        "img/eslinga-ei05-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "kit-accesorios-ka10",
+      "name": "Kit de Accesorios para Grúa KA-10",
+      "price": 12500,
+      "discountPercent": 18,
+      "offerStart": "2026-10-20T00:00:00",
+      "offerEnd": "2026-10-20T23:59:59",
+      "stock": 3,
+      "category": "Accesorios",
+      "description": "El kit de accesorios para grúa KA-10 reúne elementos destinados a complementar maniobras de manejo de cargas con una grúa. La aplicación depende de los componentes incluidos y del equipo con que se utilice.",
+      "features": {
+        "Contenido de catálogo": "Conjunto de accesorios para grúa; piezas incluidas por confirmar.",
+        "Aplicación": "Complemento para maniobras compatibles con grúas.",
+        "Ajuste": "Compatibilidad con modelo y configuración por verificar.",
+        "Identificación de piezas": "Función y cantidad de cada componente por confirmar."
+      },
+      "mainImage": "img/kit-accesorios-ka10-1.jpg",
+      "gallery": [
+        "img/kit-accesorios-ka10-1.jpg",
+        "img/kit-accesorios-ka10-2.jpg",
+        "img/kit-accesorios-ka10-3.jpg",
+        "img/kit-accesorios-ka10-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "taladro-industrial-ti20",
+      "name": "Taladro Industrial TI-20",
+      "price": 18000,
+      "discountPercent": 15,
+      "offerStart": "2026-10-21T00:00:00",
+      "offerEnd": "2026-10-21T23:59:59",
+      "stock": 8,
+      "category": "Herramientas",
+      "description": "El taladro industrial TI-20 apoya trabajos de perforación en tareas de instalación, mantenimiento y fabricación. La broca y el material de trabajo deben ser compatibles con la herramienta.",
+      "features": {
+        "Operación": "Perforación con broca o accesorio compatible.",
+        "Aplicación": "Trabajos de instalación, mantenimiento o fabricación.",
+        "Materiales": "Uso según la broca y el material admitido por el equipo.",
+        "Datos de operación": "Potencia, velocidad y capacidad de sujeción por confirmar."
+      },
+      "mainImage": "img/taladro-industrial-ti20-1.jpg",
+      "gallery": [
+        "img/taladro-industrial-ti20-1.jpg",
+        "img/taladro-industrial-ti20-2.jpg",
+        "img/taladro-industrial-ti20-3.jpg",
+        "img/taladro-industrial-ti20-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "esmeril-industrial-ei07",
+      "name": "Esmeril Industrial EI-07",
+      "price": 8500,
+      "discountPercent": 12,
+      "offerStart": "2026-10-22T00:00:00",
+      "offerEnd": "2026-10-22T23:59:59",
+      "stock": 6,
+      "category": "Herramientas",
+      "description": "El esmeril industrial EI-07 se emplea en labores de desbaste y acabado de superficies. Apoya la preparación de piezas en taller con el accesorio adecuado para el material y la tarea.",
+      "features": {
+        "Operación": "Desbaste o acabado con accesorio compatible.",
+        "Aplicación": "Preparación de superficies y trabajos de taller.",
+        "Consumible": "Tipo y dimensión del disco por confirmar.",
+        "Datos de operación": "Potencia, velocidad y materiales admitidos por confirmar."
+      },
+      "mainImage": "img/esmeril-industrial-ei07-1.jpg",
+      "gallery": [
+        "img/esmeril-industrial-ei07-1.jpg",
+        "img/esmeril-industrial-ei07-2.jpg",
+        "img/esmeril-industrial-ei07-3.jpg",
+        "img/esmeril-industrial-ei07-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "llave-impacto-industrial-li15",
+      "name": "Llave de Impacto Industrial LI-15",
+      "price": 12500,
+      "discountPercent": 10,
+      "offerStart": "2026-10-23T00:00:00",
+      "offerEnd": "2026-10-23T23:59:59",
+      "stock": 4,
+      "category": "Herramientas",
+      "description": "La llave de impacto LI-15 facilita el apriete y desmontaje de fijaciones en trabajos de montaje y mantenimiento. Debe utilizarse con dados y conexiones compatibles con la herramienta.",
+      "features": {
+        "Función": "Afloje o apriete de fijaciones mediante acción de impacto.",
+        "Aplicación": "Mantenimiento y montaje de uniones mecánicas.",
+        "Accesorio": "Dado y cuadro de conexión compatibles por confirmar.",
+        "Parámetros de herramienta": "Torque, accionamiento y alimentación por confirmar."
+      },
+      "mainImage": "img/llave-impacto-industrial-li15-1.jpg",
+      "gallery": [
+        "img/llave-impacto-industrial-li15-1.jpg",
+        "img/llave-impacto-industrial-li15-2.jpg",
+        "img/llave-impacto-industrial-li15-3.jpg",
+        "img/llave-impacto-industrial-li15-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "atornillador-industrial-ai12",
+      "name": "Atornillador Industrial AI-12",
+      "price": 9500,
+      "discountPercent": 15,
+      "offerStart": "2026-10-24T00:00:00",
+      "offerEnd": "2026-10-24T23:59:59",
+      "stock": 7,
+      "category": "Herramientas",
+      "description": "El atornillador industrial AI-12 apoya tareas de fijación y ensamble mediante la instalación o retiro de tornillos. La punta y el tipo de fijación deben corresponder al trabajo realizado.",
+      "features": {
+        "Función de ensamble": "Instalación o retiro de tornillos con punta compatible.",
+        "Aplicación": "Armado, instalación y mantenimiento.",
+        "Consumibles": "Tipo de puntas compatibles por confirmar.",
+        "Parámetros de herramienta": "Torque, velocidad y accionamiento por confirmar."
+      },
+      "mainImage": "img/atornillador-industrial-ai12-1.jpg",
+      "gallery": [
+        "img/atornillador-industrial-ai12-1.jpg",
+        "img/atornillador-industrial-ai12-2.jpg",
+        "img/atornillador-industrial-ai12-3.jpg",
+        "img/atornillador-industrial-ai12-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "soldadora-industrial-si25",
+      "name": "Soldadora Industrial SI-25",
+      "price": 32000,
+      "discountPercent": 18,
+      "offerStart": "2026-10-25T00:00:00",
+      "offerEnd": "2026-10-25T23:59:59",
+      "stock": 3,
+      "category": "Herramientas",
+      "description": "La soldadora industrial SI-25 está destinada a trabajos de unión de piezas en actividades de fabricación, reparación o mantenimiento. El proceso y los consumibles dependen de la configuración del equipo.",
+      "features": {
+        "Proceso": "Unión de piezas mediante proceso de soldadura por confirmar.",
+        "Aplicación": "Trabajos de fabricación, reparación o mantenimiento.",
+        "Consumibles": "Electrodos, alambre u otros consumibles según proceso compatible.",
+        "Parámetros eléctricos": "Rango de salida, alimentación y ciclo de trabajo por confirmar."
+      },
+      "mainImage": "img/soldadora-industrial-si25-1.jpg",
+      "gallery": [
+        "img/soldadora-industrial-si25-1.jpg",
+        "img/soldadora-industrial-si25-2.jpg",
+        "img/soldadora-industrial-si25-3.jpg",
+        "img/soldadora-industrial-si25-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "cortadora-industrial-ci14",
+      "name": "Cortadora Industrial CI-14",
+      "price": 14500,
+      "discountPercent": 12,
+      "offerStart": "2026-10-26T00:00:00",
+      "offerEnd": "2026-10-26T23:59:59",
+      "stock": 5,
+      "category": "Herramientas",
+      "description": "La cortadora industrial CI-14 apoya el corte y dimensionado de materiales en trabajos de taller y fabricación. El accesorio de corte debe ser adecuado para el material y la operación.",
+      "features": {
+        "Función": "Corte de materiales con accesorio compatible.",
+        "Aplicación": "Separación o dimensionado de piezas en trabajos de taller.",
+        "Consumible": "Tipo y medida de disco o cuchilla por confirmar.",
+        "Capacidad de trabajo": "Materiales y dimensiones de corte por confirmar."
+      },
+      "mainImage": "img/cortadora-industrial-ci14-1.jpg",
+      "gallery": [
+        "img/cortadora-industrial-ci14-1.jpg",
+        "img/cortadora-industrial-ci14-2.jpg",
+        "img/cortadora-industrial-ci14-3.jpg",
+        "img/cortadora-industrial-ci14-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "pistola-impacto-industrial-pi10",
+      "name": "Pistola de Impacto PI-10",
+      "price": 7800,
+      "discountPercent": 10,
+      "offerStart": "2026-10-27T00:00:00",
+      "offerEnd": "2026-10-27T23:59:59",
+      "stock": 9,
+      "category": "Herramientas",
+      "description": "La pistola de impacto PI-10 aplica acción de impacto para apretar o aflojar fijaciones en tareas de montaje y mantenimiento. Los dados y accesorios deben ser compatibles con el equipo.",
+      "features": {
+        "Acción": "Aplicación de impacto para apretar o aflojar fijaciones.",
+        "Formato": "Herramienta manual para trabajos de montaje o mantenimiento.",
+        "Compatibilidad": "Tipo de dados, acople y fijaciones por confirmar.",
+        "Datos de funcionamiento": "Torque, velocidad y accionamiento por confirmar."
+      },
+      "mainImage": "img/pistola-impacto-industrial-pi10-1.jpg",
+      "gallery": [
+        "img/pistola-impacto-industrial-pi10-1.jpg",
+        "img/pistola-impacto-industrial-pi10-2.jpg",
+        "img/pistola-impacto-industrial-pi10-3.jpg",
+        "img/pistola-impacto-industrial-pi10-4.jpg"
+      ],
+      "isDemo": false
+    },
+    {
+      "id": "herramienta-hidraulica-hh08",
+      "name": "Herramienta Hidráulica HH-08",
+      "price": 18500,
+      "discountPercent": 20,
+      "offerStart": "2026-10-28T00:00:00",
+      "offerEnd": "2026-10-28T23:59:59",
+      "stock": 2,
+      "category": "Herramientas",
+      "description": "La herramienta hidráulica HH-08 está orientada a trabajos que requieren aplicación de fuerza hidráulica en entornos industriales. La operación y los accesorios dependen de la configuración del equipo.",
+      "features": {
+        "Accionamiento": "Hidráulico según la descripción del producto.",
+        "Uso general": "Herramienta para una operación de fuerza en entorno industrial.",
+        "Interfaz": "Conexiones y accesorios compatibles por confirmar.",
+        "Parámetros de trabajo": "Presión, fuerza y aplicación específica pendientes de confirmar."
+      },
+      "mainImage": "img/herramienta-hidraulica-hh08-1.jpg",
+      "gallery": [
+        "img/herramienta-hidraulica-hh08-1.jpg",
+        "img/herramienta-hidraulica-hh08-2.jpg",
+        "img/herramienta-hidraulica-hh08-3.jpg",
+        "img/herramienta-hidraulica-hh08-4.jpg"
+      ],
+      "isDemo": false
+    }
+  ]
+}

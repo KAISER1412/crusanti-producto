@@ -1,0 +1,16 @@
+CAMBIOS REALIZADOS
+
+- Se eliminó la descarga y generación del comprobante PDF.
+- La pantalla muestra “¡Compra exitosa!” únicamente tras verificar en el backend una captura COMPLETED.
+- Si se cierra/cancela la ventana de PayPal, muestra “Compra cancelada”.
+- Los productos DEMO con stock null permiten una sola unidad para pruebas Sandbox. Esto NO establece ni afirma que existan unidades reales.
+- El backend continúa usando la API de PayPal Sandbox.
+
+SEGURIDAD
+- No se incluye backend/.env porque contiene credenciales.
+- Copia backend/.env.example a backend/.env y completa allí tus credenciales Sandbox. Nunca compartas el Client Secret ni lo pongas en variables VITE_.
+
+INICIO
+1. En backend: npm install (si node_modules no existe) y npm start.
+2. En la carpeta raíz del frontend: npm install (si node_modules no existe) y npm run dev.
+3. Mantén ambas terminales abiertas. Comprueba que FRONTEND_ORIGIN en backend/.env coincide exactamente con el origen del frontend.
