@@ -1,10 +1,11 @@
+```js
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ command }) => ({
-  // Ruta del repositorio en GitHub Pages.
-  base: command === "build" ? "/crusanti-producto./" : "/",
+  // Ruta correcta para GitHub Pages.
+  base: command === "build" ? "/crusanti-producto/" : "/",
 
   plugins: [react(), tailwindcss()],
 
@@ -14,3 +15,4 @@ export default defineConfig(({ command }) => ({
     strictPort: true,
   },
 }));
+```
