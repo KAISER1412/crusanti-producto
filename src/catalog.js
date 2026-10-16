@@ -88,8 +88,14 @@ export function categoryGroup(category = "") {
 
 export function imageUrl(path) {
   if (!path) return "";
-  if (/^(https?:)?\//.test(path)) return path;
-  return `/${path.replace(/^\.\//, "")}`;
+
+  if (/^https?:\/\//i.test(path)) {
+    return path;
+  }
+
+  const cleanPath = path.replace(/^\/+/, "").replace(/^\.\//, "");
+
+  return `${import.meta.env.BASE_URL}${cleanPath}`;
 }
 
 export function productSearchText(product) {
