@@ -245,7 +245,7 @@ export default function PayPalCheckout({ product, offerState, now }) {
 };
 
 const continueShopping = () => {
-  window.location.assign("/");
+  window.location.assign("/crusanti-producto/");
 };
 
 const buyAgain = () => {
